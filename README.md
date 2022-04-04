@@ -1,16 +1,5 @@
-# go_moon
+# Go Moon
 
-A new Flutter project.
+A Flutter application that use a free [API](https://www.icalendar37.net/lunar/app/now/?lang=en) to check the moon status
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/16108354/161462304-61529573-f882-4659-91d6-fe7b1438caec.png)
